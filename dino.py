@@ -46,7 +46,7 @@ def draw():
 
 if __name__ == "__main__":
     time.sleep(3)
-    draw()
+    #draw()
     hit('up')
     while True:
           image = takeScreenshot()
